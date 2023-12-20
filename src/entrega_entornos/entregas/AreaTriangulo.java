@@ -22,7 +22,6 @@ public class AreaTriangulo {
 	
 	////////////////////////////////////////////////////////////////////
 	// METODOS
-	
 	// AREA TRIANGULO
 	public static double areaTriangulo(double base, double altura)
 	{
