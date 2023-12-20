@@ -56,5 +56,10 @@ public class AreaTriangulo {
 	{
 		return Math.pow(lado, 3);
 	}
+	//VOLUMEN CUBO
+	public static double volumenCubo(double lado)
+	{
+		return Math.pow(lado, 3);
+	}
 
 }
