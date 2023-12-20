@@ -18,6 +18,9 @@ public class AreaTriangulo {
 		
 		System.out.println("El area del triangulo es " + area);
 		
+		/////
+		
+		
 	}
 	
 	////////////////////////////////////////////////////////////////////
@@ -27,4 +30,15 @@ public class AreaTriangulo {
 	{
 		return (base * altura) / 2;
 	}
+	////circuferencia
+	public static double areaCircunferencia(double radio) {
+
+		return Math.PI * Math.pow(radio, 2);
+	}
+	
+	public static double perimetroCircunferencia(double radio) {
+
+		return Math.PI * (radio * 2);
+	}
+
 }
