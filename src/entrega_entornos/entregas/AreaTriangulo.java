@@ -56,5 +56,7 @@ public class AreaTriangulo {
 	{
 		return Math.pow(lado, 3);
 	}
+	
+	// PASO 7
 
 }
