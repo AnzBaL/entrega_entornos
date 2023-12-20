@@ -49,8 +49,8 @@ public class AreaTriangulo {
 	public static double areaRectangulo(double base, double altura)
 	{
 		return base * altura;
-	}
-	
+	}	
+
 	// VOLUMEN CUBO
 	public static double volumenCubo(double lado)
 	{
